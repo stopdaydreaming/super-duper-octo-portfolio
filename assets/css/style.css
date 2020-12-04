@@ -1,0 +1,24 @@
+/* ## TABLE OF CONTENTS ## 
+01. ELEMENT STYLES
+02. CLASS STYLES
+03. ID STYLES
+04. MEDIA QUERIES */
+
+/* ## ELEMENT STYLES ## */
+body{
+    background: url('../images/ignasi_pattern_s.png')
+}
+/* ## CLASS STYLES ## */
+.container {
+    background: #fff;
+}
+.navbar-brand {
+    background: teal;
+}
+a.navbar-brand{
+    font-family: 'Times New Roman', Times, serif;
+    color: #fff;
+    font-size: 24px;
+}
+
+/* ## ID styles ## */
