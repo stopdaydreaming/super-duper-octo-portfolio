@@ -5,20 +5,36 @@
 04. MEDIA QUERIES */
 
 /* ## ELEMENT STYLES ## */
-body{
-    background: url('../images/ignasi_pattern_s.png')
+body {
+  background: url("../images/ignasi_pattern_s.png");
 }
+
 /* ## CLASS STYLES ## */
 .container {
-    background: #fff;
+  margin: 65px 0 0 55px;
+  background: #fff;
+  width: auto;
+  max-width: 680px;
+  padding: 0 15px;
 }
 .navbar-brand {
-    background: teal;
+  background: teal;
+  padding: 5px;
 }
-a.navbar-brand{
-    font-family: 'Times New Roman', Times, serif;
-    color: #fff;
-    font-size: 24px;
+a.navbar-brand {
+  font-family: "Times New Roman", Times, serif;
+  color: #fff;
+  font-size: 32px;
+  font-weight: bold;
+}
+
+.footer {
+  background-color: grey;
+  height: 70px;
+  border-top: solid 10px teal;
+  position: fixed;
+  left: 0;
+  bottom: 0;
 }
 
 /* ## ID styles ## */
