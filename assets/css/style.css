@@ -11,6 +11,14 @@ body {
 form {
   padding: 30px;
 }
+footer {
+    background-color: grey;
+    height: 70px;
+    border-top: solid 10px #17a2b8;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+  }
 
 /* ## CLASS STYLES ## */
 .container {
@@ -39,13 +47,6 @@ a.navbar-brand {
   font-weight: 900;
   padding: 50px 0 0 30px;
 }
-.footer {
-  background-color: grey;
-  height: 70px;
-  border-top: solid 10px #17a2b8;
-  position: fixed;
-  left: 0;
-  bottom: 0;
-}
+
 
 /* ## ID styles ## */
