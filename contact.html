@@ -54,7 +54,37 @@
       <div class="row">
         <div class="col-12">
           <h1 class="text-info content-title">Contact</h1>
-          <p>form goes here</p>
+          <form>
+            <div class="form-group">
+              <label for="name">Name</label>
+              <input
+                type="name"
+                class="form-control"
+                id="name"
+                placeholder="Name"
+              />
+            </div>
+            <div class="form-group">
+              <label for="email">Email address</label>
+              <input
+                type="email"
+                class="form-control"
+                id="email"
+                aria-describedby="emailHelp"
+                placeholder="Email"
+              />
+            </div>
+            <div class="form-group">
+              <label for="exampleFormControlTextarea1">Message</label>
+              <textarea
+                class="form-control"
+                id="exampleFormControlTextarea1"
+                rows="3"
+                placeholder="Message"
+              ></textarea>
+            </div>
+            <button type="submit" class="btn btn-info btn-lg">Submit</button>
+          </form>
         </div>
       </div>
     </main>
