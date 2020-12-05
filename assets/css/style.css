@@ -6,35 +6,44 @@
 
 /* ## ELEMENT STYLES ## */
 body {
-  background: url("../images/ignasi_pattern_s.png");
-}
-
-/* ## CLASS STYLES ## */
-.container {
-  margin: 65px 0 0 55px;
-  background: #fff;
-  width: auto;
-  max-width: 680px;
-  padding: 0 15px;
-}
-.navbar-brand {
-  background: teal;
-  padding: 5px;
-}
-a.navbar-brand {
-  font-family: "Times New Roman", Times, serif;
-  color: #fff;
-  font-size: 32px;
-  font-weight: bold;
-}
-
-.footer {
-  background-color: grey;
-  height: 70px;
-  border-top: solid 10px teal;
-  position: fixed;
-  left: 0;
-  bottom: 0;
-}
-
-/* ## ID styles ## */
+    background: url("../images/ignasi_pattern_s.png");
+  }
+  
+  /* ## CLASS STYLES ## */
+  .container {
+    margin: 65px 0 0 55px;
+    background: #fff;
+    width: auto;
+    max-width: 680px;
+    padding: 0 15px;
+  }
+  .navbar-brand {
+    padding: 5px;
+  }
+  a.navbar-brand {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: #fff;
+    font-size: 50px;
+    font-weight: bold;
+  }
+  .content-img {
+    margin: 25px;
+    float: none;
+  }
+  .content-title {
+    font-size: 40px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: 900;
+    padding-top: 30px;
+  }
+  .footer {
+    background-color: grey;
+    height: 70px;
+    border-top: solid 10px #17a2b8;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+  }
+  
+  /* ## ID styles ## */
+  
