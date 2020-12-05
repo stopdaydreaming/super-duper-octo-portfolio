@@ -22,6 +22,8 @@
 ```md
 ![alt text](assets/images/screenshot.png)
 ```
+## View Website
+Click here to view the live website [VIEW SITE](https://stopdaydreaming.github.io/super-duper-octo-portfolio/)
 
 
 ## Credits
