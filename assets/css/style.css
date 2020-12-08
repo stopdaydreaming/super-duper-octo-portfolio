@@ -18,7 +18,7 @@ footer {
     position: fixed;
     left: 0;
     bottom: 0;
-  }
+}
 
 /* ## CLASS STYLES ## */
 .container {
@@ -27,6 +27,9 @@ footer {
   width: auto;
   max-width: 680px;
   padding: 0 15px;
+}
+.row {
+  margin-bottom: 100px;
 }
 .navbar-brand {
   padding: 5px;
@@ -40,6 +43,10 @@ a.navbar-brand {
 .content-img {
   margin: 25px;
   float: none;
+  border: solid 1px #ccc;
+  padding: 5px;
+  max-width: 350px;
+  filter: grayscale(1);
 }
 .content-title {
   font-size: 40px;
@@ -50,3 +57,6 @@ a.navbar-brand {
 
 
 /* ## ID styles ## */
+#about {
+  margin-bottom: 50px;
+}

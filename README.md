@@ -27,7 +27,11 @@ Click here to view the live website [VIEW SITE](https://stopdaydreaming.github.i
 
 
 ## Credits
-
+1 contributor: @stopdaydreaming
+### Resources
+https://css-tricks.com/couple-takes-sticky-footer/
+https://getbootstrap.com/docs/4.5/examples/sticky-footer/
+https://getbootstrap.com/docs/4.5/utilities/spacing/
 
 ## License
 
