@@ -4,6 +4,8 @@
 03. ID STYLES
 04. MEDIA QUERIES */
 
+* { border: 1px solid red; }
+
 /* ## ELEMENT STYLES ## */
 body {
   background: url("../images/ignasi_pattern_s.png");
@@ -19,18 +21,20 @@ footer {
     left: 0;
     bottom: 0;
 }
+nav{
+  width: 100%;
+}
 
 /* ## CLASS STYLES ## */
 .container {
-  margin: 65px 0 0 55px;
+  margin: 65px 0 120px 55px;
   background: #fff;
-  width: auto;
   max-width: 680px;
-  padding: 0 15px;
+  /*padding: 0 15px; */
 }
-.row {
+/* .row {
   margin-bottom: 100px;
-}
+} */
 .navbar-brand {
   padding: 5px;
 }
