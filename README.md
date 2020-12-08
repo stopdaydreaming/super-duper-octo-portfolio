@@ -26,9 +26,8 @@ This repository is the where I develop the code my portfolio website. The HTML i
 
 ## Usage 
 This code should be used for the purpose of creating/editing code for a typical portfolio website.
-```md
-![alt text](assets/images/screenshot.png)
-```
+![portfolio](./assets/images/screenshot.png)
+
 ## View Website
 Click here to view the live website [VIEW SITE](https://stopdaydreaming.github.io/super-duper-octo-portfolio/)
 
@@ -36,8 +35,8 @@ Click here to view the live website [VIEW SITE](https://stopdaydreaming.github.i
 ## Credits
 1 contributor: @stopdaydreaming
 ### Resources
-https://css-tricks.com/couple-takes-sticky-footer/
-https://getbootstrap.com/docs/4.5/examples/sticky-footer/
+https://css-tricks.com/couple-takes-sticky-footer/  
+https://getbootstrap.com/docs/4.5/examples/sticky-footer/  
 https://getbootstrap.com/docs/4.5/utilities/spacing/
 
 ## License
@@ -54,10 +53,10 @@ None at this time
 None at this time
 
 ## Badges
-![badmath](https://img.shields.io/github/issues/stopdaydreaming/super-duper-octo-portfolio)
-![badmath](https://img.shields.io/github/forks/stopdaydreaming/super-duper-octo-portfolio)
-![badmath](https://img.shields.io/github/stars/stopdaydreaming/super-duper-octo-portfolio)
-![badmath](https://img.shields.io/badge/license-MIT-green)
-![badmath](https://img.shields.io/badge/HTML-92.6%25-green)
-![badmath](https://img.shields.io/badge/CSS-7.4%25-blue)
+![badmath](https://img.shields.io/github/issues/stopdaydreaming/super-duper-octo-portfolio)  
+![badmath](https://img.shields.io/github/forks/stopdaydreaming/super-duper-octo-portfolio)  
+![badmath](https://img.shields.io/github/stars/stopdaydreaming/super-duper-octo-portfolio)  
+![badmath](https://img.shields.io/badge/license-MIT-green)  
+![badmath](https://img.shields.io/badge/HTML-92.6%25-green)  
+![badmath](https://img.shields.io/badge/CSS-7.4%25-blue)  
 
