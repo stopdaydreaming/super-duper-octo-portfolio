@@ -1,16 +1,19 @@
 # Portfolio 🏆 Lisa Copeland
 
 ## Description 
-
+This repository is the where I develop the code my portfolio website. The HTML is valid and semantic, which improves accessibility and makes it easier to read. The code also utilizes Bootstrap CSS Framework for mobile responsiveness. Also, the images have been optimized to increase page load time. This source code is available to everyone under the standard [MIT license](license.txt).
 
 
 ## Table of Contents
-
 
 * [Installation](#installation)
 * [Usage](#usage)
 * [Credits](#credits)
 * [License](#license)
+* [Features](#features)
+* [Contributing](#contributing)
+* [Tests](#tests)
+* [Badges](#badges)
 
 
 ## Installation
@@ -22,7 +25,7 @@
 1. Click the "VIEW SITE" link at the bottom of this README
 
 ## Usage 
-
+This code should be used for the purpose of creating/editing code for a typical portfolio website.
 ```md
 ![alt text](assets/images/screenshot.png)
 ```
@@ -42,16 +45,19 @@ Copyright (c) Lisa Copeland. All rights reserved.
 Licensed under the [MIT](license.txt) license.
 
 ## Features
-
+None at this time
 
 ## Contributing
-
+None at this time
 
 ## Tests
+None at this time
 
 ## Badges
 ![badmath](https://img.shields.io/github/issues/stopdaydreaming/super-duper-octo-portfolio)
 ![badmath](https://img.shields.io/github/forks/stopdaydreaming/super-duper-octo-portfolio)
 ![badmath](https://img.shields.io/github/stars/stopdaydreaming/super-duper-octo-portfolio)
-![badmath](https://img.shields.io/github/license/stopdaydreaming/super-duper-octo-portfolio)
-![badmath](https://img.shields.io/twitter/url?url=https%3A%2F%2Fgithub.com%2Fstopdaydreaming%2Fsuper-duper-octo-portfolio)
+![badmath](https://img.shields.io/badge/license-MIT-green)
+![badmath](https://img.shields.io/badge/HTML-92.6%25-green)
+![badmath](https://img.shields.io/badge/CSS-7.4%25-blue)
+
