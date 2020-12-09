@@ -2,9 +2,7 @@
 01. ELEMENT STYLES
 02. CLASS STYLES
 03. ID STYLES
-04. MEDIA QUERIES */
-
-* { border: 1px solid red; }
+04. MEDIA QUERIES
 
 /* ## ELEMENT STYLES ## */
 body {
@@ -24,24 +22,22 @@ footer {
 nav{
   width: 100%;
 }
-
-/* ## CLASS STYLES ## */
-.container {
+main {
   margin: 65px 0 120px 55px;
   background: #fff;
-  max-width: 680px;
-  /*padding: 0 15px; */
 }
-/* .row {
-  margin-bottom: 100px;
-} */
+
+/* ## CLASS STYLES ## */
+.container-sm {
+  width: 680px
+}
 .navbar-brand {
   padding: 5px;
 }
 a.navbar-brand {
   font-family: Georgia, "Times New Roman", Times, serif;
   color: #fff;
-  font-size: 50px;
+  font-size: 3rem;;
   font-weight: bold;
 }
 .content-img {
@@ -63,4 +59,11 @@ a.navbar-brand {
 /* ## ID styles ## */
 #about {
   margin-bottom: 50px;
+}
+
+/* ## MEDIA QUERIES ## */
+@media only screen and (max-width: 400px) {
+  a.navbar-brand {
+    font-size: 2rem;
+  }
 }
